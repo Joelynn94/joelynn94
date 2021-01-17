@@ -1,5 +1,5 @@
 ### Hi, my name is Joe - I am looking to start a career in Web Devleopment starting in 2021
-#### Case Western Universoty bootcamp alumni (2020)
+#### Case Western University bootcamp alumni (2020)
 
 - 🔭 I’m currently working on - My Personal Finance Portal (https://github.com/Joelynn94/personal-finance-portal)
 - 🌱 I’m currently learning - more React, API development and authentication
