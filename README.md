@@ -8,7 +8,7 @@
   - Website: https://www.josephlynn.com/,
   - Titter: https://twitter.com/LynnJoseph94
   - LinkedIn: https://www.linkedin.com/in/joseph-lynn/
-- }
+}
 
 
 <!--
