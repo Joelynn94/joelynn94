@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning - more React, API development and authentication
 - 👯 I’m collaborating on - A personal finance tool (https://github.com/r-matt-hawley/alumni-project-finance)
 - 📫 How to reach me: 
-  - Website: https://www.josephlynn.com/,
+  - Website: https://www.josephlynn.com/
   - Twitter: https://twitter.com/LynnJoseph94
   - LinkedIn: https://www.linkedin.com/in/joseph-lynn/
 
