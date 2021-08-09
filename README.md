@@ -11,7 +11,7 @@
 
 ---
 
-[![Joseph Lynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelynn94)]
+![Joseph Lynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelynn94)
 
 
 
