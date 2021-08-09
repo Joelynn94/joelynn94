@@ -9,6 +9,11 @@
   - Twitter: https://twitter.com/LynnJoseph94
   - LinkedIn: https://www.linkedin.com/in/joseph-lynn/
 
+---
+
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelynn94)]
+
+
 
 <!--
 **Joelynn94/joelynn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
