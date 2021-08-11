@@ -6,7 +6,7 @@
 - 👯 I’m collaborating on - A nutrition app (https://github.com/ichbindev/alumni-collab)
 - 📫 How to reach me: 
   - Website: https://www.josephlynn.com/
-  - Twitter: https://twitter.com/LynnJoseph94
+  - Twitter: https://twitter.com/joe1ynn
   - LinkedIn: https://www.linkedin.com/in/joseph-lynn/
 
 ---
