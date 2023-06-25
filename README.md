@@ -1,4 +1,4 @@
-### Hi, my name is Joe - looking to start a career in Web Development in 2021
+### Hi, my name is Joe - professional frontend developer
 #### Case Western University bootcamp alumni (2020)
 
 - 🔭 I’m currently working on - An invoice app made with React (https://github.com/Joelynn94/invoice-app)
